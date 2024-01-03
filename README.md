@@ -1,6 +1,6 @@
-# Convention Name Analysis
+# American Guest House Convention Guest Analysis
 
-This script performs an analysis on convention names and their corresponding check-in dates from multiple CSV files. The analysis focuses on identifying similar convention names and understanding the time difference between the booking date and the check-in date.
+This code analyzes convention names and corresponding check-in dates from multiple CSV files. The analysis focuses on identifying similar convention names and understanding the time difference between the booking date and the check-in date.
 
 ## Tools and Libraries Used
 
