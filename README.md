@@ -9,7 +9,6 @@ This code analyzes convention names and corresponding check-in dates from multip
 - **NumPy**: Used for numerical operations.
 - **Fuzzywuzzy**: Used for fuzzy string matching.
 - **Datetime**: Used for working with date and time.
-- **Re**: Used for regular expressions.
 - **Dateutil.parser**: Used for parsing date strings.
 
 ## Data Loading and Cleaning
