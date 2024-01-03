@@ -1,0 +1,386 @@
+Booked On,Room,Check In,Check Out,# Nights,# Guests,Notes,Email
+12/02/2018,Room 402,12/03/2018,12/11/2018,8,1,Other,safa_amer88@yahoo.com
+12/03/2018,Room 114,12/10/2018,12/12/2018,2,1,Washington Hilton,ashley.heathfield@state.co.us
+12/05/2018,Room 201,12/08/2018,12/12/2018,4,1,Select Location,oabdalla@d-tree.org
+12/07/2018,Room 401,03/01/2019,03/06/2019,5,2,Select Location,mtdevlin@gmail.com
+12/07/2018,"Room 204,Room 201","02/06/2019,02/06/2019","02/08/2019,02/08/2019","2.0,2.0","1.0,1.0",Select Location,shamira.meghji@bayardcanada.com
+12/08/2018,Room 301,02/05/2019,02/09/2019,4,2,Washington Hilton,mlee@littleheartsmedical.org
+12/11/2018,Room 204,03/31/2019,04/07/2019,7,1,Omni Shoreham,streule@arch.ethz.ch
+12/11/2018,Room 401,03/21/2019,03/24/2019,3,1,Omni Shoreham,tedra.stuart@options.org
+12/12/2018,Room 114,12/12/2018,12/13/2018,1,1,Select Location,justin@marlonblackwell.com
+12/18/2018,Room 114,01/27/2019,01/30/2019,3,1,Select Location,a.ram.02@mindef.nl
+12/18/2018,Room 402,02/04/2019,02/07/2019,3,2,Washington Hilton,klvereide@gmail.com
+12/18/2018,Room 402,02/07/2019,02/08/2019,1,2,Washington Hilton,klvereide@gmail.com
+12/19/2018,Room 403,01/11/2019,01/13/2019,2,2,Select Location,pbruton57@gmail.com
+12/22/2018,Room 203,04/03/2019,04/06/2019,3,2,Select Location,cehodges73@gmail.com
+12/24/2018,Room 204,03/21/2019,03/25/2019,4,1,Omni Shoreham,lpigott@futuresofapalmbeach.com
+12/27/2018,Room 114,05/14/2019,05/18/2019,4,1,Wardman Park Marriott,steve@gallatinrealtors.com
+01/01/2019,Room 304,01/14/2019,01/15/2019,1,1,Select Location,kunqian123@hotmail.com
+01/03/2019,Room 304,01/18/2019,01/20/2019,2,1,Washington Hilton,mikestamat@gmail.com
+01/05/2019,Room 403,01/31/2019,02/03/2019,3,2,Washington Hilton,empmorgan@gmail.com
+01/06/2019,Room 304,03/21/2019,03/22/2019,1,1,Omni Shoreham,petermontminy@mac.com
+01/07/2019,Room 304,04/01/2019,04/04/2019,3,1,Select Location,tom@whitmerworrall.com
+01/07/2019,Room 203,03/18/2019,03/22/2019,4,1,Other,pkilde@wcap.org
+01/07/2019,Room 403,01/18/2019,01/20/2019,2,2,Washington Hilton,donreinertjr@gmail.com
+01/08/2019,Room 403,03/21/2019,03/25/2019,4,2,Omni Shoreham,smynelson@gmail.com
+01/08/2019,Room 201,05/16/2019,05/18/2019,2,2,Washington Hilton,marie@easylisting.com
+01/10/2019,Room 201,03/04/2019,03/09/2019,5,1,Washington Hilton,eunni@roseman.edu
+01/11/2019,Room 204,03/27/2019,03/29/2019,2,1,Wardman Park Marriott,ebrowne@charlesriverhealth.org
+01/16/2019,Room 203,03/01/2019,03/07/2019,6,1,Washington Hilton,hsmalley@kpb.us
+01/17/2019,Room 204,03/02/2019,03/06/2019,4,1,Select Location,dhinson@franklinmo.net
+01/17/2019,Room 202,03/01/2019,03/04/2019,3,1,Washington Hilton,ctuck@alachuacounty.us
+01/18/2019,"Room 202,Room 203","03/24/2019,03/24/2019","03/26/2019,03/26/2019","2.0,2.0","1.0,1.0",Washington Hilton,ppappasergi@eckerd.org
+01/19/2019,Room 203,01/26/2019,01/27/2019,1,2,Select Location,mb.pritchard@comcast.net
+01/19/2019,Room 303,05/18/2019,05/28/2019,10,2,Select Location,dkde@cox.net
+01/19/2019,Room 402,03/03/2019,03/07/2019,4,1,Washington Hilton,marion.greene@hennepin.us
+01/22/2019,Room 403,01/25/2019,01/26/2019,1,2,Select Location,howardjhoffman@gmail.com
+01/22/2019,Room 303,04/02/2019,04/06/2019,4,2,Select Location,gina.jonas@gmail.com
+01/22/2019,Room 202,01/22/2019,01/23/2019,1,1,Select Location,celestial.yogini@gmail.com
+01/22/2019,Room 201,05/01/2019,05/02/2019,1,1,Washington Hilton,hiraokak@gmail.com
+01/23/2019,Room 303,03/13/2019,03/17/2019,4,2,Select Location,pmt255@yahoo.com
+01/23/2019,Room 403,02/23/2019,02/25/2019,2,1,Select Location,bobwee@comcast.net
+01/28/2019,Room 403,03/25/2019,03/28/2019,3,2,Select Location,irarubenfeld@yahoo.com
+01/29/2019,Room 301,04/06/2019,04/11/2019,5,1,Washington Hilton,VINCENT@IRONWORKERS416.ORG
+01/31/2019,Room 114,04/08/2019,04/10/2019,2,1,Select Location,mprintup@iuoe463.org
+01/31/2019,Room 304,04/08/2019,04/10/2019,2,1,Select Location,manager@iuoe463.org
+02/01/2019,Room 201,04/19/2019,04/22/2019,3,2,Select Location,fivi1421@gmail.com
+02/01/2019,Room 114,02/05/2019,02/06/2019,1,1,Select Location,georgia.roberts@blinkfilmsuk.com
+02/01/2019,Room 204,04/07/2019,04/10/2019,3,1,Washington Hilton,oplocal11@gmail.com
+02/05/2019,Room 201,03/01/2019,03/03/2019,2,2,Select Location,LLOYD4@GMAIL.COM
+02/05/2019,Room 114,02/06/2019,02/07/2019,1,1,Washington Hilton,dede@savethepersecutedchristians.org
+02/06/2019,Room 204,03/06/2019,03/09/2019,3,1,Washington Hilton,olayinka.shiyanbola@wisc.edu
+02/07/2019,Room 201,02/10/2019,02/13/2019,3,1,Select Location,shelagh.mahbubani@gmail.com
+02/10/2019,Room 114,03/05/2019,03/06/2019,1,1,Select Location,salemcatlover@msn.com
+02/10/2019,Room 203,02/11/2019,02/12/2019,1,1,Select Location,fwdonnelly@gmail.com
+02/14/2019,Room 201,03/10/2019,03/15/2019,5,1,Washington Hilton,markmoffittjr@gmail.com
+02/15/2019,Room 114,03/02/2019,03/05/2019,3,1,Washington Hilton,janis.callison@hennepin.us
+02/15/2019,Room 304,04/28/2019,05/02/2019,4,1,Washington Hilton,elisalan@email.unc.edu
+02/15/2019,Room 202,05/13/2019,05/16/2019,3,2,Wardman Park Marriott,Bonnienaulthomes@gmail.com
+02/17/2019,Room 302,05/22/2019,05/28/2019,6,2,Wardman Park Marriott,j.m.tybur@vu.nl
+02/19/2019,Room 201,05/12/2019,05/15/2019,3,2,Select Location,jillies32@frontier.com
+02/19/2019,Room 202,04/28/2019,05/01/2019,3,1,Washington Hilton,dreww@pennmedicine.upenn.edu
+02/19/2019,Room 203,05/24/2019,05/26/2019,2,2,Select Location,fourmysir@gmail.com
+02/21/2019,Room 304,02/27/2019,03/02/2019,3,1,Select Location,dcoleman13@hotmail.com
+02/25/2019,Room 202,05/20/2019,05/21/2019,1,2,Select Location,JOHNBOLD01@YAHOO.COM
+02/27/2019,Room 304,03/10/2019,03/11/2019,1,1,Washington Hilton,karin.cassavar@ppoh.org
+02/27/2019,Room 114,03/06/2019,03/08/2019,2,1,Washington Hilton,lduthely@med.miami.edu
+02/28/2019,Room 302,05/14/2019,05/20/2019,6,2,Washington Hilton,granderath57@gmail.com
+02/28/2019,Room 204,03/11/2019,03/12/2019,1,1,Select Location,sarah.natoce@ppoh.org
+02/28/2019,Room 203,04/19/2019,04/23/2019,4,2,Select Location,pdcmiller@gmail.com
+03/01/2019,Room 304,03/13/2019,03/14/2019,1,1,Select Location,jtevans52@gmail.com
+03/03/2019,Room 403,04/06/2019,04/10/2019,4,2,Select Location,andrew.white24@verizon.net
+03/03/2019,Room 304,06/07/2019,06/09/2019,2,1,Select Location,dsboodoo@hotmail.com
+03/03/2019,Room 201,06/05/2019,06/09/2019,4,1,Select Location,new.clinic14@gmail.com
+03/05/2019,Room 304,03/11/2019,03/13/2019,2,1,Other,judith.brauer@yahoo.com
+03/05/2019,Room 403,03/29/2019,03/31/2019,2,2,Select Location,courtney.horton@gmail.com
+03/08/2019,Room 302,03/09/2019,03/10/2019,1,2,Select Location,sparentr@gmail.com
+03/08/2019,Room 204,03/12/2019,03/13/2019,1,1,Wardman Park Marriott,x.amy.zhang@gmail.com
+03/09/2019,Room 203,03/15/2019,03/16/2019,1,2,Select Location,rita.lacey@closetheloop.com
+03/11/2019,Room 203,03/12/2019,03/13/2019,1,1,Select Location,Marwan.Isbaih@nbkny.com
+03/11/2019,Room 201,04/28/2019,04/30/2019,2,1,Select Location,virginiacity1234@gmail.com
+03/11/2019,Room 401,03/12/2019,03/13/2019,1,1,Select Location,byerlein@umich.edu
+03/12/2019,Room 401,04/07/2019,04/10/2019,3,2,Washington Hilton,iwrobertduffield@gmail.com businessmanager@ironworkerslocal387.com
+03/12/2019,Room 401,04/06/2019,04/07/2019,1,2,Washington Hilton,businessmanager@ironworkerslocal387.com
+03/12/2019,Room 304,04/04/2019,04/05/2019,1,1,Select Location,esatkoski@hotmail.com
+03/13/2019,Room 304,03/22/2019,03/26/2019,4,1,Other,marcmer@optonline.net
+03/13/2019,Room 302,04/02/2019,04/07/2019,5,2,Wardman Park Marriott,rayeag01@gmail.com
+03/13/2019,Room 402,05/02/2019,05/04/2019,2,1,Select Location,viciehobbs@gmail.com
+03/13/2019,Room 114,04/22/2019,04/26/2019,4,1,Select Location,bertrand@infocafeinc.com
+03/14/2019,Room 203,04/10/2019,04/11/2019,1,2,Wardman Park Marriott,debosreeroy@atsu.edu
+03/16/2019,Room 303,03/27/2019,03/28/2019,1,2,Select Location,norman.johnson@us.bosch.com
+03/18/2019,Room 403,04/15/2019,04/18/2019,3,2,Select Location,Dabulls80@hotmail.com
+03/18/2019,Room 301,04/01/2019,04/05/2019,4,1,Wardman Park Marriott,perkinsh@ohio.edu
+03/18/2019,Room 203,05/31/2019,06/05/2019,5,2,Select Location,jsafox@gmail.com
+03/19/2019,Room 201,06/04/2019,06/05/2019,1,1,Washington Hilton,moneymantles@gmail.com
+03/19/2019,Room 403,03/28/2019,03/29/2019,1,1,Select Location,boero.dina@gmail.com
+03/19/2019,Room 303,04/08/2019,04/10/2019,2,2,Select Location,alison@metageek.net
+03/20/2019,Room 304,03/20/2019,03/21/2019,1,1,Omni Shoreham,petermontminy@mac.com
+03/21/2019,Room 204,04/28/2019,04/29/2019,1,1,Washington Hilton,betsyf@pacifier.com
+03/21/2019,Room 114,04/28/2019,05/02/2019,4,1,Washington Hilton,ixmohar@gmail.com
+03/22/2019,Room 203,03/26/2019,03/27/2019,1,2,Select Location,john@checklistaz.com
+03/23/2019,"Room 303,Room 401","03/24/2019,03/27/2019","03/27/2019,03/29/2019","3.0,2.0","2.0,2.0",Select Location,ccsa_sa@yahoo.com
+03/23/2019,Room 202,05/08/2019,05/12/2019,4,2,Select Location,cliffandnorma@msn.com
+03/24/2019,Room 203,03/29/2019,03/31/2019,2,2,Select Location,elenabogardus@gmail.com
+03/25/2019,Room 301,03/25/2019,03/26/2019,1,2,Select Location,jqsanders09@gmail.com
+03/25/2019,Room 201,04/08/2019,04/12/2019,4,1,Other,benguaraldi@gmail.com
+03/26/2019,Room 304,04/05/2019,04/07/2019,2,1,Wardman Park Marriott,mfj4@illinois.edu
+03/26/2019,Room 403,05/15/2019,05/17/2019,2,2,Select Location,jncgrady@yahoo.com
+03/27/2019,Room 114,04/10/2019,04/11/2019,1,1,Wardman Park Marriott,denisekulak@gmail.com
+03/28/2019,Room 114,04/11/2019,04/13/2019,2,1,Wardman Park Marriott,gopalakrishna.a@gmail.com
+03/29/2019,Room 302,04/09/2019,04/10/2019,1,1,Select Location,cgrogan@ariadnelabs.org
+04/01/2019,Room 301,05/08/2019,05/09/2019,1,2,Washington Hilton,suwang8@gmail.com
+04/02/2019,Room 304,05/06/2019,05/09/2019,3,1,Select Location,tom@whitmerworrall.com
+04/04/2019,"Room 204,Room 304","05/20/2019,05/20/2019","05/23/2019,05/23/2019","3.0,3.0","1.0,1.0",Washington Hilton,Sacosta@pebbent.com
+04/05/2019,Room 403,04/20/2019,04/21/2019,1,2,Select Location,jaquishc@gmail.com
+04/06/2019,Room 401,05/08/2019,05/10/2019,2,1,Select Location,julietishler@outlook.com
+04/06/2019,Room 204,04/10/2019,04/11/2019,1,1,Select Location,lynn@the-collective-good.com
+04/06/2019,Room 201,05/08/2019,05/10/2019,2,1,Washington Hilton,anna.chodos@gmail.com
+04/06/2019,Room 302,04/08/2019,04/09/2019,1,2,Select Location,fifloans@gmail.com
+04/07/2019,Room 114,06/04/2019,06/09/2019,5,1,Washington Hilton,pmazz@bigpond.com
+04/08/2019,Room 402,04/08/2019,04/09/2019,1,1,Washington Hilton,ethan.link@gmail.com
+04/08/2019,Room 204,04/23/2019,04/27/2019,4,1,Washington Hilton,r.feldman@upside.nz
+04/08/2019,Room 304,04/10/2019,04/12/2019,2,1,Other,erin.mccrane@operationsmile.org
+04/08/2019,Room 204,05/08/2019,05/09/2019,1,1,Select Location,yp2372@columbia.edu
+04/09/2019,"Room 402,Room 204","04/11/2019,04/11/2019","04/12/2019,04/12/2019","1.0,1.0","1.0,1.0",Select Location,charles@evrresearch.com
+04/10/2019,Room 204,06/02/2019,06/06/2019,4,1,Other,Emmeline.Searson@ul.ie
+04/11/2019,Room 201,05/02/2019,05/05/2019,3,1,Washington Hilton,scampbellsengupta@stcloudstate.edu
+04/11/2019,Room 203,04/28/2019,04/30/2019,2,1,Washington Hilton,don@kanduranch.com
+04/12/2019,Room 203,04/23/2019,04/26/2019,3,2,Select Location,slorsung@gmail.com
+04/13/2019,Room 403,06/01/2019,06/06/2019,5,2,Select Location,grahampask02@yahoo.co.uk
+04/14/2019,Room 303,04/14/2019,04/15/2019,1,2,Select Location,josephine@altamanu.com
+04/15/2019,Room 302,05/08/2019,05/10/2019,2,1,Washington Hilton,ehuang@medicine.bsd.uchicago.edu
+04/19/2019,Room 201,05/24/2019,05/26/2019,2,2,Select Location,patrickrichardwalls@gmail.com
+04/19/2019,Room 304,05/13/2019,05/15/2019,2,1,Select Location,linda.chism@alaskaair.com
+04/22/2019,Room 114,06/24/2019,06/28/2019,4,1,Washington Hilton,jason_blackowiak@mednax.com
+04/23/2019,Room 402,05/20/2019,05/21/2019,1,1,Select Location,dloevy@aol.com
+04/23/2019,"Room 201,Room 204","04/30/2019,04/30/2019","05/01/2019,05/01/2019","1.0,1.0","1.0,1.0",Select Location,mary.gray@ctagent.us
+04/24/2019,Room 202,05/01/2019,05/04/2019,3,1,Select Location,jmarrs@iupui.edu
+04/25/2019,Room 203,05/17/2019,05/19/2019,2,2,Select Location,gmoore6001@yahoo.com
+04/27/2019,Room 304,05/09/2019,05/10/2019,1,1,Washington Hilton,ELAMOTTE@gmail.com
+04/29/2019,Room 204,05/14/2019,05/16/2019,2,1,Select Location,stephanie@moderneventures.com
+04/29/2019,Room 304,05/15/2019,05/17/2019,2,1,Select Location,emmaclaire@globalzero.org
+04/29/2019,Room 201,05/07/2019,05/08/2019,1,1,Select Location,mbeamsl@hotmail.com
+05/02/2019,Room 401,05/07/2019,05/08/2019,1,1,Other,jalexa1@mdc.edu
+05/02/2019,Room 114,05/07/2019,05/09/2019,2,1,Select Location,msuh718@gmail.com
+05/02/2019,Room 304,06/21/2019,06/26/2019,5,1,Select Location,terencejagger@btinternet.com
+05/03/2019,Room 302,05/21/2019,05/22/2019,1,2,Select Location,warrentpratt@gmail.com
+05/06/2019,Room 201,05/15/2019,05/16/2019,1,1,Omni Shoreham,shawnhill21@gmail.com
+05/07/2019,Room 301,05/18/2019,05/19/2019,1,2,Select Location,rpigossi@mac.com
+05/08/2019,Room 304,06/18/2019,06/21/2019,3,1,Select Location,tom@whitmerworrall.com
+05/08/2019,Room 114,05/22/2019,05/25/2019,3,1,Washington Hilton,veronica.sanchez88@gmail.com
+05/09/2019,Room 114,05/20/2019,05/21/2019,1,1,Other,goldstein@lexmarc.us
+05/09/2019,Room 403,06/10/2019,06/12/2019,2,2,Wardman Park Marriott,sglueck241@gmail.com
+05/09/2019,Room 201,05/19/2019,05/23/2019,4,1,Select Location,steven@stevenmeyers.com
+05/10/2019,Room 403,05/17/2019,05/18/2019,1,2,Select Location,dg585@cornell.edu
+05/11/2019,Room 304,05/28/2019,06/01/2019,4,1,Select Location,nicolahopper@hotmail.com
+05/11/2019,Room 114,05/25/2019,05/28/2019,3,1,Washington Hilton,veronica.sanchez88@gmail.com
+05/13/2019,Room 402,06/05/2019,06/08/2019,3,2,Select Location,anitawill2@yahoo.com
+05/13/2019,Room 114,06/10/2019,06/11/2019,1,1,Select Location,sdanish@ajli.org
+05/13/2019,Room 403,06/18/2019,06/20/2019,2,2,Omni Shoreham,blh99@cornell.edu
+05/13/2019,Room 201,05/18/2019,05/19/2019,1,2,Select Location,raggmopp23@aol.com
+05/15/2019,Room 304,06/04/2019,06/06/2019,2,1,Wardman Park Marriott,david@advancedimprovementsllc.com
+05/16/2019,Room 114,05/21/2019,05/22/2019,1,1,Select Location,spierce@tacc.utexas.edu
+05/16/2019,Room 201,06/18/2019,06/20/2019,2,1,Select Location,mdumont@bard.edu
+05/18/2019,Room 303,06/24/2019,06/26/2019,2,2,Select Location,rainer.romatka@comcast.net
+05/22/2019,Room 201,06/23/2019,06/28/2019,5,1,Washington Hilton,zach@teamreilly.org
+05/24/2019,Room 202,05/25/2019,05/26/2019,1,2,Select Location,kbgreene81@gmail.com
+05/24/2019,Room 401,05/25/2019,05/26/2019,1,2,Select Location,llg58@drexel.edu
+05/25/2019,Room 304,05/25/2019,05/26/2019,1,1,Select Location,heybigspender.accting@gmail.com
+05/26/2019,Room 201,06/10/2019,06/11/2019,1,2,Select Location,paulaheitman2@gmail.com
+05/27/2019,Room 204,06/18/2019,06/21/2019,3,1,Omni Shoreham,toby@wolflandscape.com
+05/27/2019,Room 402,07/17/2019,07/19/2019,2,2,Other,rspowell379@gmail.com
+05/27/2019,Room 403,06/12/2019,06/13/2019,1,2,Select Location,paulaheitman2@gmail.com
+05/28/2019,Room 401,06/05/2019,06/06/2019,1,1,Select Location,susan@podziba.com
+05/28/2019,Room 204,06/10/2019,06/12/2019,2,1,Washington Hilton,victoria.aeda@gmail.com
+05/29/2019,Room 304,06/09/2019,06/13/2019,4,1,Washington Hilton,aungpyaekyaw85@gmail.com
+05/29/2019,Room 301,06/03/2019,06/06/2019,3,1,Select Location,glvargas7@att.net
+05/29/2019,Room 202,07/11/2019,07/17/2019,6,2,Select Location,lilianazavaleta@yahoo.com
+05/29/2019,Room 402,06/04/2019,06/05/2019,1,1,Omni Shoreham,Zakina.Ogbourne@fiu.edu
+06/01/2019,Room 114,06/15/2019,06/22/2019,7,1,Select Location,anniejay525@gmail.com
+06/02/2019,Room 302,06/11/2019,06/13/2019,2,2,Select Location,john.ferry17@gmail.com
+06/03/2019,Room 403,06/23/2019,06/26/2019,3,2,Wardman Park Marriott,elena.andreyeva1311@gmail.com
+06/04/2019,Room 114,06/11/2019,06/12/2019,1,1,Select Location,andydeloney72@gmail.com
+06/04/2019,Room 201,06/11/2019,06/13/2019,2,2,Select Location,margo.greenfield@gmail.com
+06/07/2019,Room 403,06/21/2019,06/23/2019,2,1,Select Location,carolaxelrod@gmail.com
+06/08/2019,Room 203,10/11/2019,10/12/2019,1,2,Select Location,rmdrysdale@aol.com
+06/08/2019,Room 302,06/26/2019,06/30/2019,4,1,Select Location,schuler53@me.com
+06/10/2019,Room 301,07/04/2019,07/05/2019,1,2,Select Location,juliewright45@GMAIL.COM
+06/12/2019,Room 203,06/28/2019,07/01/2019,3,1,Select Location,kenneth.sturrock@hhs.gov
+06/14/2019,Room 302,06/20/2019,06/23/2019,3,1,Select Location,fm11709@yahoo.com
+06/14/2019,Room 301,06/20/2019,06/23/2019,3,2,Select Location,bayvilleken@yahoo.com
+06/15/2019,Room 114,07/15/2019,07/17/2019,2,1,Select Location,jperman@thepermangroup.com
+06/17/2019,Room 403,06/28/2019,06/29/2019,1,2,Select Location,pdahl_113@yahoo.com
+06/17/2019,Room 401,06/19/2019,06/20/2019,1,2,Select Location,mr.maxstorey@gmail.com
+06/17/2019,Room 203,06/24/2019,06/25/2019,1,2,Select Location,athsca@yahoo.com
+06/18/2019,Room 204,06/26/2019,06/27/2019,1,2,Select Location,whatinthejbird@mail.com
+06/20/2019,Room 403,07/05/2019,07/07/2019,2,2,Select Location,alexandra.crowder247@gmail.com
+06/21/2019,Room 204,07/07/2019,07/09/2019,2,1,Select Location,shelleyb317@gmail.com
+06/22/2019,Room 304,07/08/2019,07/11/2019,3,1,Select Location,tom@whitmerworrall.com
+06/22/2019,Room 303,08/04/2019,08/07/2019,3,2,Select Location,nick.arambarri@gmail.com
+06/22/2019,Room 301,06/24/2019,06/26/2019,2,1,Select Location,brookesheets@gmail.com
+06/24/2019,Room 204,06/25/2019,06/26/2019,1,2,Select Location,kristen_e_reynolds@hotmail.com
+06/24/2019,Room 401,07/15/2019,07/18/2019,3,1,Select Location,stephanie.sehnert@gmail.com
+06/24/2019,Room 402,06/26/2019,06/27/2019,1,2,Select Location,williamholly@me.com
+06/26/2019,Room 402,07/23/2019,07/25/2019,2,2,Select Location,ebelka@gmail.com
+06/26/2019,Room 202,06/27/2019,06/28/2019,1,2,Select Location,mdecasperis@gmail.com
+06/27/2019,Room 203,07/22/2019,07/25/2019,3,2,Select Location,elliott.christine27@yahoo.com
+06/28/2019,Room 201,07/17/2019,07/18/2019,1,1,Select Location,annecward@gmail.com
+06/28/2019,Room 201,07/03/2019,07/11/2019,8,2,Select Location,terje.freeflydenlund@icloud.com
+06/29/2019,Room 201,07/13/2019,07/15/2019,2,1,Select Location,alwarrenesq@msn.com
+06/30/2019,Room 204,08/29/2019,09/03/2019,5,2,Select Location,cryhm@hotmail.com
+06/30/2019,Room 403,09/21/2019,09/25/2019,4,2,Select Location,phanson1@cfl.rr.com
+07/02/2019,Room 301,07/14/2019,07/17/2019,3,1,Wardman Park Marriott,DONNA.WILLIAMS@HEALTHREACH.ORG
+07/03/2019,Room 204,07/28/2019,07/30/2019,2,1,Select Location,stix.amy@gmail.com
+07/05/2019,Room 201,07/16/2019,07/17/2019,1,1,Select Location,aphillips@cityfirstbank.com
+07/06/2019,Room 204,07/09/2019,07/11/2019,2,1,Select Location,mschmidl@umn.edu
+07/09/2019,Room 203,07/10/2019,07/11/2019,1,1,Select Location,tbernard@health.usf.edu
+07/10/2019,Room 403,08/03/2019,08/08/2019,5,1,Washington Hilton,hollie.richards@usu.edu
+07/10/2019,"Room 201,Room 204","08/03/2019,08/03/2019","08/08/2019,08/08/2019","5.0,5.0","1.0,1.0",Washington Hilton,bulloch_s@suu.edu
+07/10/2019,Room 204,07/18/2019,07/21/2019,3,2,Select Location,yan_yi@yahoo.com
+07/11/2019,Room 203,07/11/2019,07/12/2019,1,2,Select Location,vickiswank@bellsouth.net
+07/13/2019,Room 203,07/13/2019,07/14/2019,1,2,Select Location,jf@capeseasonings.com
+07/14/2019,Room 304,07/15/2019,07/18/2019,3,1,Select Location,RNHAMAD@ME.COM
+07/14/2019,Room 204,07/22/2019,07/26/2019,4,1,Select Location,RNHAMAD@ME.COM
+07/15/2019,Room 204,07/15/2019,07/17/2019,2,1,Select Location,jcspierer@yahoo.com
+07/16/2019,Room 204,07/17/2019,07/18/2019,1,2,Select Location,celebre2005@hotmail.com
+07/18/2019,Room 304,08/04/2019,08/07/2019,3,1,Washington Hilton,cap11@nyu.edu
+07/19/2019,Room 201,08/27/2019,09/01/2019,5,1,Washington Hilton,edenny@ucmerced.edu
+07/20/2019,Room 202,07/23/2019,07/24/2019,1,2,Select Location,shideh.shakikhah@gmail.com
+07/22/2019,Room 304,07/22/2019,07/24/2019,2,1,Select Location,hshumway@macalester.edu
+07/22/2019,Room 202,07/24/2019,07/26/2019,2,2,Select Location,brian_holbrook@mac.com
+07/23/2019,Room 401,07/23/2019,07/24/2019,1,1,Select Location,liamthomasdaley@gmail.com
+07/23/2019,Room 203,09/15/2019,09/17/2019,2,2,Select Location,dyanneoconnell@att.net
+07/25/2019,Room 301,07/27/2019,07/28/2019,1,2,Select Location,Brisketking72@gmail.com
+07/25/2019,"Room 401,Room 401","08/03/2019,08/06/2019","08/06/2019,08/07/2019","3.0,1.0","1.0,1.0",Other,jenn.stewart@dixie.edu
+07/25/2019,Room 402,10/02/2019,10/06/2019,4,2,Select Location,lev.markov@comcast.net
+07/26/2019,Room 302,09/04/2019,09/09/2019,5,2,Select Location,larry_westland@hotmail.com
+07/30/2019,Room 202,07/31/2019,08/02/2019,2,2,Select Location,drsharwanilal@gmail.com
+07/31/2019,Room 202,09/10/2019,09/13/2019,3,2,Select Location,p_a_cole@bigpond.net.au
+08/03/2019,Room 403,09/05/2019,09/07/2019,2,2,Select Location,matt@matthewcorey.com
+08/04/2019,Room 403,08/15/2019,08/16/2019,1,2,Select Location,joey.hodges94@hotmail.com
+08/05/2019,Room 403,08/18/2019,08/19/2019,1,2,Select Location,dakvnoland@gmail.com
+08/08/2019,Room 304,09/22/2019,09/24/2019,2,1,Select Location,Phinton@capplus.org
+08/08/2019,Room 403,09/27/2019,09/29/2019,2,2,Select Location,sandyjcampbell@comcast.net
+08/09/2019,Room 304,09/05/2019,09/10/2019,5,1,Washington Hilton,ellen@sirull.com
+08/09/2019,Room 304,09/24/2019,09/25/2019,1,1,Select Location,angela_geissler@yahoo.com
+08/10/2019,Room 402,08/17/2019,08/18/2019,1,2,Select Location,michaeltapp1@gmail.com
+08/12/2019,Room 304,09/10/2019,09/12/2019,2,1,Select Location,zlifton@gmail.com
+08/15/2019,Room 403,09/29/2019,09/30/2019,1,2,Select Location,PNUS@THEWAVZ.COM
+08/17/2019,Room 403,09/09/2019,09/12/2019,3,2,Select Location,stopher.eldridge@nike.com
+08/17/2019,Room 402,10/18/2019,10/20/2019,2,2,Select Location,richard.geertsma55@gmail.com
+08/17/2019,Room 304,08/30/2019,08/31/2019,1,1,Washington Hilton,nickanspach@gmail.com
+08/18/2019,Room 403,10/03/2019,10/07/2019,4,2,Select Location,lisa@amatocraig.com
+08/20/2019,Room 304,11/16/2019,11/20/2019,4,1,Washington Hilton,DEAN.SITTIG@GMAIL.COM
+08/21/2019,"Room 114,Room 204","10/05/2019,10/05/2019","10/07/2019,10/07/2019","2.0,2.0","1.0,1.0",Select Location,doiksmcl@yahoo.co.uk
+08/21/2019,Room 201,09/10/2019,09/11/2019,1,1,Select Location,ndodge432@gmail.com
+08/21/2019,Room 201,09/17/2019,09/19/2019,2,1,Other,conner@empowermissouri.org
+08/22/2019,Room 114,09/08/2019,09/10/2019,2,1,Washington Hilton,magen.james2@alaska.gov
+08/23/2019,Room 402,08/25/2019,08/26/2019,1,2,Select Location,cjscates@comcast.net
+08/25/2019,Room 203,09/21/2019,09/22/2019,1,2,Select Location,compactify@outlook.com
+08/26/2019,Room 204,09/05/2019,09/08/2019,3,2,Select Location,dlee@sbsindy.biz
+08/26/2019,Room 202,08/31/2019,09/01/2019,1,2,Select Location,patrick.donahue96@gmail.com
+08/27/2019,Room 402,09/25/2019,09/27/2019,2,2,Select Location,janansmith@hotmail.com
+08/28/2019,Room 204,10/28/2019,10/31/2019,3,1,Select Location,tom@whitmerworrall.com
+08/28/2019,Room 204,10/15/2019,10/18/2019,3,1,Select Location,tom@whitmerworrall.com
+08/28/2019,"Room 203,Room 303,Room 302","09/24/2019,09/24/2019,09/24/2019","09/26/2019,09/26/2019,09/26/2019","2.0,2.0,2.0","1.0,1.0,2.0",Other,egraves@dunklin.k12.mo.us
+08/29/2019,Room 403,10/11/2019,10/13/2019,2,2,Select Location,lkeniston@hotmail.com
+08/30/2019,Room 401,08/31/2019,09/01/2019,1,2,Select Location,djulietc1007@gmail.com
+08/31/2019,Room 304,08/31/2019,09/01/2019,1,1,Select Location,uxdeveloper@protonmail.com
+08/31/2019,Room 203,09/10/2019,09/11/2019,1,2,Select Location,volvodriver244@gmail.com
+09/03/2019,Room 303,09/17/2019,09/21/2019,4,2,Select Location,johnkschuld@gmail.com
+09/04/2019,Room 401,09/10/2019,09/11/2019,1,1,Select Location,san@enview.com
+09/04/2019,Room 301,09/10/2019,09/12/2019,2,1,Select Location,mgorman@leveedistrict.org
+09/04/2019,Room 301,09/25/2019,09/28/2019,3,2,Select Location,harrismt4@gmail.com
+09/04/2019,Room 401,09/24/2019,09/26/2019,2,2,Select Location,brent@blueplanet-ltd.com
+09/05/2019,"Room 301,Room 302","09/15/2019,09/15/2019","09/18/2019,09/18/2019","3.0,3.0","1.0,1.0",Wardman Park Marriott,djoles@sihc.org
+09/05/2019,"Room 303,Room 301","10/04/2019,10/04/2019","10/07/2019,10/07/2019","3.0,3.0","2.0,2.0",Select Location,mcwilliams@taconic.net
+09/06/2019,Room 201,09/11/2019,09/13/2019,2,1,Select Location,gideon.maltz@gmail.com
+09/06/2019,Room 401,09/13/2019,09/15/2019,2,2,Select Location,myers.764@gmail.com
+09/07/2019,Room 403,10/29/2019,10/31/2019,2,1,Select Location,moonfoolgold@hotmail.com
+09/07/2019,Room 401,09/11/2019,09/12/2019,1,2,Select Location,haifa.haroon@gmail.com
+09/08/2019,Room 203,09/13/2019,09/15/2019,2,1,Select Location,nicole.bron@gmail.com
+09/09/2019,Room 202,09/25/2019,09/27/2019,2,1,Other,kevinrelliott@yahoo.com
+09/09/2019,Room 302,09/18/2019,09/21/2019,3,2,Other,bendix@mindspring.com
+09/09/2019,Room 114,09/10/2019,09/12/2019,2,1,Select Location,agrawal.shefali09@gmail.com
+09/10/2019,Room 204,10/09/2019,10/10/2019,1,1,Washington Hilton,jcolon@akronhousing.org
+09/12/2019,Room 303,09/12/2019,09/14/2019,2,2,Select Location,TUSIA.KOVNER@GMAIL.COM
+09/12/2019,Room 114,09/24/2019,09/25/2019,1,1,Select Location,amberwinkler@hotmail.com
+09/12/2019,Room 304,09/17/2019,09/18/2019,1,1,Select Location,kriti.d.gandhi@gmail.com
+09/13/2019,Room 303,09/14/2019,09/15/2019,1,2,Select Location,TUSIA.KOVNER@GMAIL.COM
+09/14/2019,Room 303,09/15/2019,09/16/2019,1,2,Select Location,TUSIA.KOVNER@GMAIL.COM
+09/16/2019,Room 303,09/16/2019,09/17/2019,1,2,Select Location,TUSIA.KOVNER@GMAIL.COM
+09/16/2019,Room 204,10/07/2019,10/08/2019,1,1,Select Location,maureenmahle@hotmail.com
+09/16/2019,Room 403,09/19/2019,09/20/2019,1,2,Select Location,deltakd8@gmail.com
+09/16/2019,Room 402,09/20/2019,09/21/2019,1,2,Select Location,jsmangum@gmail.com
+09/17/2019,Room 201,10/23/2019,10/27/2019,4,1,Select Location,scott@capechicago.org
+09/17/2019,Room 303,09/21/2019,09/24/2019,3,2,Select Location,TUSIA.KOVNER@GMAIL.COM
+09/18/2019,Room 304,11/06/2019,11/10/2019,4,1,Select Location,kssteig@gmail.com
+09/19/2019,Room 304,09/25/2019,09/26/2019,1,1,Select Location,rbarnard@waronwant.org
+09/20/2019,Room 304,10/15/2019,10/16/2019,1,1,Select Location,dmello@pciglobal.org
+09/21/2019,Room 202,10/15/2019,10/16/2019,1,2,Select Location,jpryan76@gmail.com
+09/22/2019,Room 114,09/25/2019,09/26/2019,1,1,Select Location,blipson@ofn.org
+09/22/2019,Room 202,10/26/2019,10/31/2019,5,2,Select Location,kmfein18@gmail.com
+09/23/2019,"Room 202,Room 203","11/05/2019,11/05/2019","11/07/2019,11/07/2019","2.0,2.0","2.0,2.0",Select Location,jqueen2469@gmail.com
+09/24/2019,Room 201,10/16/2019,10/17/2019,1,1,Other,rlaumann@memphis.edu
+09/25/2019,Room 114,10/16/2019,10/18/2019,2,1,Other,estelle.doumbe@giz.de
+09/25/2019,Room 301,10/16/2019,10/19/2019,3,1,Select Location,elise.sabourin@giz.de
+09/25/2019,"Room 201,Room 114","10/19/2019,10/19/2019","10/23/2019,10/23/2019","4.0,4.0","1.0,1.0",Select Location,goosthuizen@hotmail.com
+09/26/2019,Room 304,10/20/2019,10/23/2019,3,1,Washington Hilton,tfitzgerald@mvedge.org
+09/26/2019,Room 303,09/26/2019,09/30/2019,4,2,Select Location,tusia.kovner@gmail.com
+09/27/2019,Room 402,10/21/2019,10/23/2019,2,1,Select Location,houssamyma@gmail.com
+09/27/2019,Room 304,10/03/2019,10/04/2019,1,1,Select Location,chris_frankel_gra@msn.com
+09/27/2019,Room 303,10/15/2019,10/17/2019,2,2,Select Location,marian.hertz@cna.com
+09/28/2019,Room 303,09/30/2019,10/02/2019,2,2,Select Location,tusia.kovner@gmail.com
+09/28/2019,Room 301,10/21/2019,10/24/2019,3,2,Select Location,paulmarcy@hotmail.com
+09/29/2019,Room 203,10/18/2019,10/20/2019,2,2,Select Location,amurr9709@yahoo.com
+09/29/2019,Room 403,10/26/2019,10/27/2019,1,2,Select Location,craigandrewmccall@gmail.com
+09/30/2019,Room 204,11/02/2019,11/05/2019,3,2,Washington Hilton,mebrandt@rochester.k12.mn.us
+10/01/2019,Room 304,10/02/2019,10/03/2019,1,1,Washington Hilton,brian.frantz@gmail.com
+10/02/2019,Room 202,10/05/2019,10/06/2019,1,2,Select Location,sugruecru@yahoo.com
+10/03/2019,Room 201,10/15/2019,10/16/2019,1,1,Other,Kelley@unhcr.org
+10/04/2019,Room 303,10/07/2019,10/13/2019,6,2,Select Location,saiers@hotmail.com
+10/05/2019,Room 403,11/07/2019,11/08/2019,1,2,Select Location,moser.rochelle@gmail.com
+10/05/2019,Room 303,10/13/2019,10/15/2019,2,2,Select Location,saiers@hotmail.con
+10/06/2019,Room 204,10/10/2019,10/12/2019,2,1,Wardman Park Marriott,nguzman@fgcu.edu
+10/06/2019,Room 403,10/13/2019,10/14/2019,1,2,Select Location,harshkapil1992@gmail.com
+10/06/2019,Room 402,10/27/2019,10/29/2019,2,1,Select Location,micheledudley@me.com
+10/07/2019,Room 401,10/16/2019,10/19/2019,3,2,Select Location,sbortner2@verizon.net
+10/07/2019,Room 203,10/12/2019,10/13/2019,1,2,Select Location,michael.f.zettel@gmail.com
+10/07/2019,Room 304,10/07/2019,10/08/2019,1,1,Select Location,boorangisrkvs@gmail.com
+10/07/2019,Room 203,11/25/2019,11/28/2019,3,2,Select Location,geoterrysmith@sunflower.com
+10/07/2019,Room 401,11/05/2019,11/07/2019,2,1,Wardman Park Marriott,thornburgj@maldencatholic.org
+10/07/2019,Room 114,11/17/2019,11/20/2019,3,1,Washington Hilton,hannah.l.weeks@vanderbilt.edu
+10/09/2019,Room 303,10/18/2019,10/21/2019,3,2,Select Location,aaguillard07@gmail.com
+10/10/2019,Room 203,10/22/2019,10/25/2019,3,2,Select Location,rvuillaume@feedingamerica.org
+10/10/2019,Room 303,10/21/2019,10/24/2019,3,1,Washington Hilton,todd@nativecap.org
+10/11/2019,Room 401,10/12/2019,10/13/2019,1,2,Select Location,hmcilwain12@gmail.com
+10/12/2019,Room 302,10/12/2019,10/13/2019,1,2,Select Location,bdharrismd@yahoo.com
+10/12/2019,Room 403,10/19/2019,10/22/2019,3,2,Select Location,tusia.kovner@gmail.com
+10/12/2019,Room 304,10/18/2019,10/19/2019,1,1,Select Location,tusia.kovner@gmail.com
+10/12/2019,Room 303,10/24/2019,10/25/2019,1,2,Select Location,tusia.kovner@gmail.com
+10/15/2019,Room 204,01/31/2020,02/03/2020,3,2,Select Location,cryhm@hotmail.com
+10/19/2019,Room 203,11/20/2019,11/22/2019,2,2,Other,kdperris66@gmail.com
+10/20/2019,Room 303,11/05/2019,11/13/2019,8,2,Select Location,jpriverad@gmail.com
+10/22/2019,Room 201,11/15/2019,11/20/2019,5,1,Washington Hilton,wsalomon@clinical-metrics.com
+10/23/2019,Room 304,11/14/2019,11/16/2019,2,1,Select Location,Tonya_Samuels@yahoo.com
+10/23/2019,Room 114,10/23/2019,10/25/2019,2,1,Select Location,kcallmarth@att.net
+10/23/2019,Room 114,11/14/2019,11/16/2019,2,1,Select Location,nique816@gmail.com
+10/23/2019,Room 301,11/06/2019,11/09/2019,3,1,Washington Hilton,angie@aaf-hf.org
+10/24/2019,Room 401,10/25/2019,10/27/2019,2,2,Select Location,umar.y.aisha@gmail.com
+10/24/2019,Room 403,11/05/2019,11/06/2019,1,1,Select Location,chris_frankel_gra@msn.com
+10/24/2019,Room 202,11/18/2019,11/20/2019,2,1,Other,swhite@liu.edu
+10/25/2019,Room 301,10/26/2019,10/27/2019,1,2,Select Location,john.maigret@gmail.com
+10/25/2019,Room 114,10/25/2019,10/27/2019,2,1,Select Location,zarajk@outlook.com
+10/26/2019,Room 201,11/06/2019,11/08/2019,2,1,Washington Hilton,jchotiner@msmu.edu
+10/27/2019,Room 203,12/03/2019,12/04/2019,1,1,Select Location,ghmyers@aol.com
+10/29/2019,"Room 302,Room 203","11/08/2019,11/07/2019","11/12/2019,11/08/2019","4.0,1.0","2.0,2.0",Select Location,sharonvongibson@gmail.com
+10/29/2019,Room 402,11/11/2019,11/12/2019,1,1,Select Location,chris_frankel_gra@msn.com
+10/30/2019,Room 204,11/19/2019,11/22/2019,3,1,Select Location,tom@whitmerworrall.com
+10/31/2019,Room 114,11/06/2019,11/07/2019,1,1,Select Location,tarkhan.mott@gmail.com
+11/06/2019,Room 403,11/08/2019,11/10/2019,2,2,Select Location,dwsedg@gmail.com
+11/09/2019,Room 304,12/02/2019,12/04/2019,2,1,Select Location,tom@whitmerworrall.com
+11/09/2019,Room 202,11/09/2019,11/10/2019,1,2,Select Location,scott.a.pratt@gmail.com
+11/10/2019,Room 403,01/17/2020,01/20/2020,3,2,Select Location,laurenhp95@gmail.com
+11/11/2019,Room 403,11/23/2019,11/25/2019,2,2,Select Location,LBercheni@verizon.net
+11/11/2019,Room 114,11/12/2019,11/14/2019,2,1,Select Location,anthony.eller@yale.edu
+11/12/2019,Room 402,11/22/2019,11/23/2019,1,2,Washington Hilton,sam.h.wallace@gmail.com
+11/12/2019,Room 202,11/12/2019,11/15/2019,3,1,Select Location,tom@whitmerworrall.com
+11/13/2019,Room 401,12/02/2019,12/03/2019,1,1,Select Location,chris_frankel_gra@msn.com
+11/15/2019,Room 201,12/11/2019,12/12/2019,1,1,Select Location,mikido@hotmail.com
+11/15/2019,Room 203,12/11/2019,12/12/2019,1,1,Select Location,lorraine54@gmail.com
+11/18/2019,Room 204,02/04/2020,02/06/2020,2,1,Washington Hilton,briansussman@iname.com
+11/18/2019,Room 403,11/18/2019,11/23/2019,5,2,Select Location,saiers@hotmail.com
+11/19/2019,Room 403,11/29/2019,12/02/2019,3,2,Select Location,strawberryfieldssanctuary@gmail.com
+11/20/2019,"Room 114,Room 304,Room 201","12/06/2019,12/06/2019,12/06/2019","12/07/2019,12/07/2019,12/07/2019","1.0,1.0,1.0","1.0,1.0,1.0",Select Location,c.bellegarde@photonis.com
+11/20/2019,Room 401,12/10/2019,12/11/2019,1,1,Select Location,sarah.raablerche@ibvi.org
+11/22/2019,Room 202,12/05/2019,12/06/2019,1,2,Select Location,rick_freer@yahoo.com
+11/22/2019,Room 202,02/28/2020,03/02/2020,3,2,Washington Hilton,ctuck@alachuacounty.us
+11/22/2019,Room 202,11/23/2019,11/24/2019,1,2,Other,richertai@gmail.com
+11/23/2019,Room 204,12/10/2019,12/18/2019,8,1,Washington Hilton,kada@iinet.net.au
+11/25/2019,Room 204,11/30/2019,12/01/2019,1,1,Select Location,ulrich.schroeter@unibas.ch
+11/26/2019,Room 402,12/02/2019,12/04/2019,2,1,Select Location,jperman@thepermangroup.com
+11/27/2019,Room 203,12/06/2019,12/08/2019,2,2,Select Location,schich@yahoo.com
+12/12/2019,Room 401,01/22/2020,01/25/2020,3,2,Washington Hilton,fkyle@kyleassociates.net
+12/16/2019,Room 202,01/22/2020,01/26/2020,4,2,Select Location,emilyerspamer@gmail.com
+12/24/2019,Room 304,01/11/2020,01/15/2020,4,1,Walter Reed Convention Center,j.ziebarth@fehrandpeers.com
+12/30/2019,Room 202,02/05/2020,02/06/2020,1,2,Washington Hilton,kenpatrice88@gmail.com
